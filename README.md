@@ -3,6 +3,8 @@
 Smart Brain is a web app that is able to detect a human face in any image fetched from the Internet. 
 Using a React.js front-end and Node.js back-end with Express.js as well as a PostgreSQL database to keep track of how many entries a user has made.
 
+<a href="https://smartbrain-recognition-app.herokuapp.com/">Check it out on Heroku</a>
+
 ![picture of the app](https://github.com/HuongNguyen08/smart-brain/blob/main/SignIn.PNG)
 ![picture of the app](https://github.com/HuongNguyen08/smart-brain/blob/main/Register.PNG)
 ![picture of the app](https://github.com/HuongNguyen08/smart-brain/blob/main/Detect%20a%20human%20face.PNG)
